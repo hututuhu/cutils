@@ -1,0 +1,8 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hututuhu/js-utils.git",
+  "author": "a01563 <shanqing.hu@casstime.com>",
+  "license": "MIT"
+}
